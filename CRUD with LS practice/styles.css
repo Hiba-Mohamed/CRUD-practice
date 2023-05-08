@@ -1,0 +1,10 @@
+body
+{
+    color:  rgb(72, 73, 110);
+    background-color:white;
+    background-image: -webkit-linear-gradient(65deg, #fbf8fa 2%, white);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
